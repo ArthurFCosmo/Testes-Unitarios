@@ -190,15 +190,16 @@
   },
   "active": "6b189db44c811382",
   "lastOpenFiles": [
-    "💠 1.0 Fundamentos de teste unitário.md",
-    "💠 10.0 Testando exceções customizadas isoladamente.md",
     "💠 9.0 Testando Controllers com MockMvc.md",
     "💠 8.0 Testando a camada Service na prática.md",
     "💠 7.0 Verify.md",
+    "{B9E75DA0-99DF-46AD-977F-CD567055FDF1}.png",
     "💠 6.0 Stubbing.md",
-    "💠 4.0 Mockito — o que é mock e por que usar.md",
     "💠 5.0 @Mock, @InjectMocks e MockitoExtension.md",
+    "💠 4.0 Mockito — o que é mock e por que usar.md",
     "💠 3.0 Assertions.md",
-    "💠 2.0 JUnit 5 — estrutura básica.md"
+    "💠 2.0 JUnit 5 — estrutura básica.md",
+    "💠 1.0 Fundamentos de teste unitário.md",
+    "💠 10.0 Testando exceções customizadas isoladamente.md"
   ]
 }
